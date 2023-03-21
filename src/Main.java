@@ -9,7 +9,7 @@ public class Main {
                 System.out.println(numeroinicio);
             }
             if(numeroinicio % 2== 1 && !pares){
-                System.out.println(numeroinicio);
+                System.out.println("hola");
             }
             numeroinicio++;
             }
